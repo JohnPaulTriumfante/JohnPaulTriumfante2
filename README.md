@@ -14,6 +14,7 @@ Certification:
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C0DB0926FD1E4F2D95B8172CFD97BD1725CC28AD31A680EEBD9A3DF4B9E5F801&fbclid=IwAR1LcJ9sjNHs-JXhRoPulxRZxXC94uWJmud71IQm7ynVwql9QGelf2RapJs)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=26C301B2CECECD0F06EC42D7672759309624CC2B95A5CDAC96E112228980112B)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5399d2acdb49488fa7cb91b3c371aabb)
+- [Introduction to Cybersecurity](https://www.credly.com/badges/97679320-5c07-4c7a-9fb9-a052be87fb8f/public_url)
 
 ## Skill Sets
 
